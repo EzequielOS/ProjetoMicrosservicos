@@ -14,6 +14,4 @@ public class Developer {
     private String specialization;
     private Sector sector;
     private Address address;
-
-
 }
